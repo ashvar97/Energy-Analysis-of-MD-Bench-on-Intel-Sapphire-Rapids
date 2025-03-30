@@ -29,7 +29,7 @@ This project aims to answer the following:
    - Running MD-Bench on **Sapphire Rapids** CPUs under different configurations.
    - Monitoring performance metrics such as **execution time, FLOPS, memory bandwidth, and cache efficiency**.
 2. **Energy Measurement**:
-   - Utilizing **Intel RAPL (Running Average Power Limit)** for real-time power monitoring.
+   - Utilizing likwid performance for real-time power monitoring.
    - Comparing energy usage across different workloads and optimizations.
 3. **Analysis & Optimization**:
    - Evaluating **power-performance trade-offs**.
@@ -45,10 +45,6 @@ This project aims to answer the following:
 - [Intel Sapphire Rapids White Paper](https://www.intel.com/content/www/us/en/products/docs/processors/xeon/sapphire-rapids.html)
 - [LAMMPS](https://www.lammps.org/)
 - [GROMACS](https://www.gromacs.org/)
-
-
-## How to Contribute
-If you're interested in contributing to this project, feel free to submit a **pull request** or open an **issue**. Suggestions, bug reports, and performance improvement ideas are always welcome!
 
 ---
 🚀 **Author**: Ashwin Varkey  
