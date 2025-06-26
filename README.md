@@ -2,8 +2,10 @@ MuCoSim Seminar: MD-Bench Performance Analysis on AMD Milan and Intel Sapphire R
 Student: Ashwin Varkey (ashwin.varkey@fau.de)
 Matriculation Number: 23115420
 Seminar: MuCoSim WS 2024/25
+
 📋 Project Overview
 This project presents a comprehensive performance analysis of MD-Bench (Molecular Dynamics Benchmark) on two different HPC architectures: AMD Milan and Intel Sapphire Rapids. The study focuses on comparing Verlet List and Cluster Pair algorithms across various SIMD vectorization modes, precision formats, and neighbor list configurations.
+
 🎯 Objectives
 Phase 1: AMD Milan Analysis
 
